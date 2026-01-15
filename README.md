@@ -4,6 +4,10 @@ This is the acompanying code repository for the research paper:
 
 "Assessing healthcare inequity among people with dementia in Gipuzkoa: a retrospective cross-sectional population-based study"
 
+published in Gaceta Sanitaria [https://doi.org/10.1016/j.gaceta.2025.102563](https://doi.org/10.1016/j.gaceta.2025.102563)
+
+The objective is to compare the use of healthcare resources (total healthcare costs; and also primary care and hospital costs) among the Gipuzkoa population with and without dementia.
+
 ## Session info
 
 The R session information is given below:
